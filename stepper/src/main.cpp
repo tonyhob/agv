@@ -3,7 +3,7 @@
 #include "stepper.h"
 #include "RFID.h"
 
-int command = 1;
+int command = 3;
 int k = 0;
 
 void setup()
